@@ -4,7 +4,7 @@ Dự án mô phỏng một **nền tảng thương mại điện tử cơ bản*
 
 ---
 
-## 🧩 Tổng quan Kiến trúc
+## 🧩 Tổng quan Kiến trúc.  
 
 Dự án gồm 4 dịch vụ chính hoạt động độc lập:
 
